@@ -1,0 +1,3 @@
+# Market-Basket-Analysis-on-Churn-Data
+"Can we reduce churn by identifying combinations of items that are frequently purchased together by users using market basket analysis as this would enable us to cross-sell products to users.?"
+ The goal of Market Basket Analysis on Churn data is to identify patterns and links between the products or services that clients frequently buy together. This can assist organisations in better understanding consumer behaviour and preferences, allowing them to make more educated decisions regarding marketing, promotions, and product offerings to increase customer loyalty and reduce churn
